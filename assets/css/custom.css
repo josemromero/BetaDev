@@ -1,0 +1,11 @@
+/**
+ * All your custom CSS should go into this file
+ */
+
+body {
+   padding-top: 60px;
+}
+
+.nav-pills>li.active>a, .nav-pills>li.active>a:hover, .nav-pills>li.active>a:focus {
+	background-color: #1c1e22;
+}
